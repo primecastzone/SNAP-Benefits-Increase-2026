@@ -1,5 +1,4 @@
 site_name: SNAP Benefits Guide 2026
 
 theme:
-  name: material
-  custom_dir: docs/overrides
+  name: readthedocs
