@@ -1,9 +1,4 @@
-site_name: SNAP Benefits Guide 2026
-
-nav:
-
-* Home: index.md
-* SNAP Benefits Increase 2026: SNAP-Benefits-Increase-2026.md
+site_name: SNAP Benefits Guide
 
 theme:
 name: mkdocs
