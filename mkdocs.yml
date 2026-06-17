@@ -1,4 +1,9 @@
 site_name: SNAP Benefits Guide 2026
 
 theme:
-  name: readthedocs
+  name: mkdocs
+
+nav:
+  - Home: index.md
+
+site_url: https://YOUR_USERNAME.github.io/REPO_NAME/
