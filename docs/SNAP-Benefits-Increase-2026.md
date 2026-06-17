@@ -1,6 +1,6 @@
 # SNAP Benefits Increase 2026: Eligibility, Income Limits & How to Apply
 
-[🚀 Check SNAP Eligibility & Benefits Guide](#who-may-qualify)
+[![SNAP Benefits Increase 2026](https://img.shields.io/badge/SNAP_Benefits_Increase_2026-LEARN_MORE-success?style=for-the-badge)](#who-may-qualify)
 
 Welcome to the **SNAP Benefits Guide 2026**, your trusted resource for understanding **SNAP Benefits Increase 2026**, eligibility requirements, application procedures, income limits, and food assistance updates.
 
